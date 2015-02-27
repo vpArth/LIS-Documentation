@@ -146,7 +146,7 @@
 
 ### Деаутентификация:
 ```
-> GET /login?username=integrity&password=%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C HTTP/1.1
+> GET /logout HTTP/1.1
 > Host: nicklis.vparth.info
 > Auth: c44f394677803f4928fb5b352ce2ac5b
 >
